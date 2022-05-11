@@ -10,7 +10,7 @@ Today, we are going to look at what some of my interests are.
     
     * Editor - `Codemirror 6` + extensions written in `Typescript`
     * Frontend - `Miso` + `Bootstrap 5`
-    * Logic, EO parser - `Haskell`
+    * Logic, EO parser - `Haskell`, `Megaparsec` in particular
     * Build system - `nix`, `ghcjs`
 
 * [eo-parser](https://github.com/br4ch1st0chr0n3/eo-parser) - a parser of [EO language](https://github.com/objectionary/eo). Provides a convenient annotated IR (with source mapping) closely resembling the grammar of 𝜑-calculus. Written in `Haskell`, used in `try-phi`
