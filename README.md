@@ -43,7 +43,7 @@ Today, we are going to look at what some of my interests are.
 
 * [eo-editor](https://github.com/br4ch1st0chr0n3/eo-editor) - An online editor for EO language featuring syntax highlighting, diagnostics, Lezer Tree printing in console, etc. `Codemirror 6` + `Typescript`
 
-* [phi-minimal-editor](https://github.com/br4ch1st0chr0n3/phi-minimal-editor) - An online editor for 𝜑-minimal language featuring syntax highlighting, diagnostics, Lezer Tree printing in console, etc. `Codemirror 6` + `Typescript`
+* [phi-editor](https://github.com/br4ch1st0chr0n3/phi-editor) - An online editor for 𝜑 language featuring syntax highlighting, diagnostics, Lezer Tree printing in console, etc. `Codemirror 6` + `Typescript`
 
 
 ## Low-level 🤠
