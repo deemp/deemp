@@ -13,9 +13,13 @@ Today, we are going to look at what some of my interests are.
     * Logic, EO parser - `Haskell`, `Megaparsec` in particular
     * Build system - `nix`, `ghcjs`
 
-* [eo-parser](https://github.com/br4ch1st0chr0n3/eo-parser) - a parser of [EO language](https://github.com/objectionary/eo). Provides a convenient annotated IR (with source mapping) closely resembling the grammar of 𝜑-calculus. Written in `Haskell`, used in `try-phi`
+* [try-phi-front](https://github.com/br4ch1st0chr0n3/try-phi-front) - an attemt to rewrite try-phi frontend in `Purescript` (WIP).
+
+* [eo-parser](https://github.com/br4ch1st0chr0n3/eo-parser) - a parser of [EO language](https://github.com/objectionary/eo). Provides a convenient annotated IR (with source mapping) closely resembling the grammar of 𝜑-calculus. Written in `Haskell`, used in `try-phi`.
 
 * [repohs](https://github.com/br4ch1st0chr0n3/repohs) - a `Haskell` script for concurrent fetching, unpacking and counting lines in multiple repositories.
+
+* [nginx-clickhouse-hs](https://github.com/br4ch1st0chr0n3/nginx-clickhouse-hs) - parse nginx logs based on log format and prepare them for loading into a database.
 
 * [ФП на языке Haskell (часть 2)](https://stepik.org/cert/1492090) - a course on `Haskell` that I almost [finished](https://stepik.org/users/124553190).
 
