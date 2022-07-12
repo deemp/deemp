@@ -6,14 +6,16 @@ Today, we are going to look at what some of my interests are.
 
 ## Functional programming 🤓
 
-* [try-phi](https://github.com/br4ch1st0chr0n3/try-phi) - an online interpreter of 𝜑-calculus (WIP). 
+* [try-phi](https://github.com/br4ch1st0chr0n3/try-phi) - an online interpreter of 𝜑-calculus (WIP) and EO. 
     
-    * Editor - `Codemirror 6` + extensions written in `Typescript`
-    * Frontend - `Miso` + `Bootstrap 5`
-    * Logic, EO parser - `Haskell`, `Megaparsec` in particular
-    * Build system - `nix`, `ghcjs`
+    * Frontend
+        * `PureScript` + `Bootstrap 5`
+        * Editors - `Codemirror 6` + extensions written in `Typescript`
+    * Backend 
+        * `Haskell`
+        * Parser - `Megaparsec`
 
-* [eo-parser](https://github.com/br4ch1st0chr0n3/eo-parser) - a parser of [EO language](https://github.com/objectionary/eo). Provides a convenient annotated IR (with source mapping) closely resembling the grammar of 𝜑-calculus. Written in `Haskell`, used in `try-phi`
+* [eo-parser](https://github.com/br4ch1st0chr0n3/eo-utils) - a parser of [EO language](https://github.com/objectionary/eo). Provides a convenient annotated IR (with source mapping) closely resembling the grammar of 𝜑-calculus. Written in `Haskell`, used in `try-phi`
 
 * [repohs](https://github.com/br4ch1st0chr0n3/repohs) - a `Haskell` script for concurrent fetching, unpacking and counting lines in multiple repositories.
 
