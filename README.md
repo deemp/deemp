@@ -19,6 +19,8 @@ Today, we are going to look at what some of my interests are.
 
 * [repohs](https://github.com/br4ch1st0chr0n3/repohs) - a `Haskell` script for concurrent fetching, unpacking and counting lines in multiple repositories.
 
+* [nginx-clickhouse-hs](https://github.com/br4ch1st0chr0n3/nginx-clickhouse-hs) - parse nginx logs based on log format and prepare them for loading into a database.
+
 * [ФП на языке Haskell (часть 2)](https://stepik.org/cert/1492090) - a course on `Haskell` that I almost [finished](https://stepik.org/users/124553190).
 
 * [elm-graph-editor](https://github.com/br4ch1st0chr0n3/elm-graph-editor) - an interactive graph editor written in `Elm`.
@@ -41,7 +43,7 @@ Today, we are going to look at what some of my interests are.
 
 * [eo-editor](https://github.com/br4ch1st0chr0n3/eo-editor) - An online editor for EO language featuring syntax highlighting, diagnostics, Lezer Tree printing in console, etc. `Codemirror 6` + `Typescript`
 
-* [phi-minimal-editor](https://github.com/br4ch1st0chr0n3/phi-minimal-editor) - An online editor for 𝜑-minimal language featuring syntax highlighting, diagnostics, Lezer Tree printing in console, etc. `Codemirror 6` + `Typescript`
+* [phi-editor](https://github.com/br4ch1st0chr0n3/phi-editor) - An online editor for 𝜑 language featuring syntax highlighting, diagnostics, Lezer Tree printing in console, etc. `Codemirror 6` + `Typescript`
 
 
 ## Low-level 🤠
