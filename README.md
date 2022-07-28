@@ -6,7 +6,7 @@ Today, we are going to look at what some of my interests are.
 
 ## Functional programming 🤓
 
-* [try-phi](https://github.com/br4ch1st0chr0n3/try-phi) - an online interpreter of 𝜑-calculus (WIP) and EO. 
+* [try-phi](https://github.com/objectionary/try-phi) - an online interpreter of 𝜑-calculus (WIP) and EO. 
     
     * Frontend
         * `PureScript` + `Bootstrap 5`
