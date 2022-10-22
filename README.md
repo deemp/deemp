@@ -1,19 +1,19 @@
 ### Dear fellow devs,
 
-This is a `Two Minute CV` with Innopolis BS'23 Danko Danila.
+This is a `Two Minute CV` with Innopolis University BS'23 Danila Danko.
 
 Today, we are going to look at what some of my interests are.
 
 ## Functional programming 🤓
 
-* [try-phi](https://github.com/objectionary/try-phi) - an online interpreter of 𝜑-calculus (WIP) and EO. 
-    
-    * Frontend
-        * `PureScript` + `Bootstrap 5`
-        * Editors - `Codemirror 6` + extensions written in `Typescript`
-    * Backend 
-        * `Haskell`
-        * Parser - `Megaparsec`
+* [try-phi](https://github.com/objectionary/try-phi) - an online interpreter of 𝜑-calculus (WIP) and EO.
+
+  * Frontend
+    * `PureScript` + `Bootstrap 5`
+    * Editors - `Codemirror 6` + extensions written in `Typescript`
+  * Backend
+    * `Haskell`
+    * Parser - `Megaparsec`
 
 * [eo-parser](https://github.com/br4ch1st0chr0n3/eo-utils) - a parser of [EO language](https://github.com/objectionary/eo). Provides a convenient annotated IR (with source mapping) closely resembling the grammar of 𝜑-calculus. Written in `Haskell`, used in `try-phi`
 
@@ -26,6 +26,16 @@ Today, we are going to look at what some of my interests are.
 * [elm-graph-editor](https://github.com/br4ch1st0chr0n3/elm-graph-editor) - an interactive graph editor written in `Elm`.
 
 * [br4ch1st0chr0n3](https://codeforces.com/submissions/brachistochrone) - I solved several problems in `Haskell` on Codeforces.
+
+## Nix
+
+* [terrafix](https://github.com/br4ch1st0chr0n3/terrafix) - a Nix eDSL. Allows to generate Terraform files from DRY Nix expressions
+* [flakes](https://github.com/br4ch1st0chr0n3/flakes) includes
+  * pinned inputs
+  * flakes for tools that I use, like
+    * [flake-tools](https://github.com/br4ch1st0chr0n3/flakes/tree/main/flake-tools) contains a reusable script for pushing all flakes in a repo to [cachix](https://www.cachix.org/)
+    * [codium](https://github.com/br4ch1st0chr0n3/flakes/tree/main/codium) gives VSCodium with adjustable extensions and runtime dependencies
+    * [packaged](https://github.com/br4ch1st0chr0n3/flakes/tree/main/json2md) json2md - to generate `README.md`-s
 
 ## Logic programming 🤯
 
@@ -45,7 +55,6 @@ Today, we are going to look at what some of my interests are.
 
 * [phi-editor](https://github.com/br4ch1st0chr0n3/phi-editor) - An online editor for 𝜑 language featuring syntax highlighting, diagnostics, Lezer Tree printing in console, etc. `Codemirror 6` + `Typescript`
 
-
 ## Low-level 🤠
 
 * [Sanitator](https://codeforces.com/profile/sanitator) - I solved around 1K problems on Codeforces in `C++`.
@@ -56,7 +65,7 @@ Today, we are going to look at what some of my interests are.
 
 <details>
 	<summary>Mostly Robotics</summary>
-	
+
 * [Project 32](https://github.com/br4ch1st0chr0n3/Project-32) - A setup for an olympiad during `Differential Equations` F20 course. The rule was to use `Mathematica` for all solutions
 
 * [F21-TM](https://github.com/br4ch1st0chr0n3/F21TM) - A repository for the `Theoretical mechanics` course. `Python`
