@@ -49,7 +49,7 @@ Today, we are going to look at what some of my interests are.
 
 ## Frontend experiments 🤕
 
-* [mini-games](https://github.com/br4ch1st0chr0n3/mini-games) - For now, a calculator game written in `Typescript` + `Boostrap 5` for my sisters to practice addition, subtraction, multiplication. Try [here](https://br4ch1st0chr0n3.github.io/mini-games/)
+* [mini-games](https://github.com/br4ch1st0chr0n3/mini-games) - For now, a calculator game written in `Typescript` + `Boostrap 5` for my sisters to practice arithmetical operations. Try [here](https://br4ch1st0chr0n3.github.io/mini-games/)
 
 * [eo-editor](https://github.com/br4ch1st0chr0n3/eo-editor) - An online editor for EO language featuring syntax highlighting, diagnostics, Lezer Tree printing in console, etc. `Codemirror 6` + `Typescript`
 
