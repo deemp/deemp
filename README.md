@@ -1,41 +1,50 @@
-### Dear fellow devs,
+### Dear fellow devs
 
 This is a `Two Minute CV` with Innopolis University BS'23 Danila Danko.
 
 Today, we are going to look at what some of my interests are.
 
-## Functional programming 🤓
+## Haskell 🤓
 
 * [try-phi](https://github.com/objectionary/try-phi) - an online interpreter of 𝜑-calculus (WIP) and EO.
 
-  * Frontend
+  * [Frontend](https://github.com/objectionary/try-phi/tree/main/front)
     * `PureScript` + `Bootstrap 5`
     * Editors - `Codemirror 6` + extensions written in `Typescript`
-  * Backend
+  * [Backend](https://github.com/objectionary/try-phi/tree/main/back)
     * `Haskell`
     * Parser - `Megaparsec`
+      * [eo-parser](https://github.com/br4ch1st0chr0n3/eo-utils) - a parser of [EO language](https://github.com/objectionary/eo). Provides a convenient annotated IR (with source mapping) closely resembling the grammar of 𝜑-calculus. Used in `try-phi`
+    * Server - `Servant`
 
-* [eo-parser](https://github.com/br4ch1st0chr0n3/eo-utils) - a parser of [EO language](https://github.com/objectionary/eo). Provides a convenient annotated IR (with source mapping) closely resembling the grammar of 𝜑-calculus. Written in `Haskell`, used in `try-phi`
+* [manager](https://github.com/br4ch1st0chr0n3/flakes/blob/main/manager/README.md) - easily manage Haskell modules and template files. `Nix flake`
 
-* [repohs](https://github.com/br4ch1st0chr0n3/repohs) - a `Haskell` script for concurrent fetching, unpacking and counting lines in multiple repositories.
+* [repohs](https://github.com/br4ch1st0chr0n3/repohs) - a script for concurrent fetching, unpacking and counting lines in multiple repositories.
 
 * [nginx-clickhouse-hs](https://github.com/br4ch1st0chr0n3/nginx-clickhouse-hs) - parse nginx logs based on log format and prepare them for loading into a database.
 
 * [ФП на языке Haskell (часть 2)](https://stepik.org/cert/1492090) - a course on `Haskell` that I almost [finished](https://stepik.org/users/124553190).
 
-* [elm-graph-editor](https://github.com/br4ch1st0chr0n3/elm-graph-editor) - an interactive graph editor written in `Elm`.
+* [br4ch1st0chr0n3](https://codeforces.com/submissions/brachistochrone) - several solved problems on Codeforces.
 
-* [br4ch1st0chr0n3](https://codeforces.com/submissions/brachistochrone) - I solved several problems in `Haskell` on Codeforces.
+## Elm
+
+* [elm-graph-editor](https://github.com/br4ch1st0chr0n3/elm-graph-editor) - an interactive graph editor written in `Elm`.
 
 ## Nix
 
 * [terrafix](https://github.com/br4ch1st0chr0n3/terrafix) - a Nix eDSL. Allows to generate Terraform files from DRY Nix expressions
+
 * [flakes](https://github.com/br4ch1st0chr0n3/flakes) includes
   * pinned inputs
   * flakes for tools that I use, like
-    * [flake-tools](https://github.com/br4ch1st0chr0n3/flakes/tree/main/flake-tools) contains a reusable script for pushing all flakes in a repo to [cachix](https://www.cachix.org/)
-    * [codium](https://github.com/br4ch1st0chr0n3/flakes/tree/main/codium) gives VSCodium with adjustable extensions and runtime dependencies
-    * [packaged](https://github.com/br4ch1st0chr0n3/flakes/tree/main/json2md) json2md - to generate `README.md`-s
+    * [flake-tools](https://github.com/br4ch1st0chr0n3/flakes/tree/main/flake-tools) - reusable scripts for updating `flake.lock`s in selected directories and pushing them to [cachix](https://www.cachix.org/)
+    * [codium](https://github.com/br4ch1st0chr0n3/flakes/tree/main/codium) - VSCodium with adjustable extensions and runtime dependencies
+    * [json2md](https://github.com/br4ch1st0chr0n3/flakes/tree/main/json2md) - generate `README.md`-s from JSON
+
+* [nix-managed](https://github.com/br4ch1st0chr0n3/nix-managed) - Haskell IDE as a flake
+
+* [devops-labs](https://github.com/br4ch1st0chr0n3/devops-labs) - Nix for DevOps. See branches
 
 ## Logic programming 🤯
 
@@ -64,7 +73,7 @@ Today, we are going to look at what some of my interests are.
 ## University courses
 
 <details>
-	<summary>Mostly Robotics</summary>
+ <summary>Mostly Robotics</summary>
 
 * [Project 32](https://github.com/br4ch1st0chr0n3/Project-32) - A setup for an olympiad during `Differential Equations` F20 course. The rule was to use `Mathematica` for all solutions
 
@@ -79,7 +88,7 @@ Today, we are going to look at what some of my interests are.
 * [S22-MM](https://github.com/br4ch1st0chr0n3/M-and-Ms) - A repository for the `Fundamentals of Robotics` course. `Python`
 
 * [S22-MM](https://github.com/br4ch1st0chr0n3/M-and-Ms) - A repository for the `Mechanics and Machines` course. `Python`
- 
+
 * [S22-ANC](https://github.com/br4ch1st0chr0n3/ANC) - A repository for the `Applied Nonlinear control` course. `Python`
 
 * [S22-S&S](https://github.com/br4ch1st0chr0n3/S22-sensors-and-sensing) - A repository for the `Sensors and Sensing` course. `Python`
