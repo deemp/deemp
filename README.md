@@ -14,14 +14,14 @@ Today, we are going to look at what some of my interests are.
   * [Backend](https://github.com/objectionary/try-phi/tree/main/back)
     * `Haskell`
     * Parser - `Megaparsec`
-      * [eo-parser](https://github.com/br4ch1st0chr0n3/eo-utils) - a parser of [EO language](https://github.com/objectionary/eo). Provides a convenient annotated IR (with source mapping) closely resembling the grammar of 𝜑-calculus. Used in `try-phi`
+      * [eo-parser](https://github.com/deemp/eo-utils) - a parser of [EO language](https://github.com/objectionary/eo). Provides a convenient annotated IR (with source mapping) closely resembling the grammar of 𝜑-calculus. Used in `try-phi`
     * Server - `Servant`
 
-* [manager](https://github.com/br4ch1st0chr0n3/flakes/blob/main/manager/README.md) - easily manage Haskell modules and template files. `Nix flake`
+* [manager](https://github.com/deemp/flakes/tree/main/manager#readme) - easily manage Haskell modules and template files. `Nix flake`
 
-* [repohs](https://github.com/br4ch1st0chr0n3/repohs) - a script for concurrent fetching, unpacking and counting lines in multiple repositories.
+* [repohs](https://github.com/deemp/repohs#readme) - a script for concurrent fetching, unpacking and counting lines in multiple repositories.
 
-* [nginx-clickhouse-hs](https://github.com/br4ch1st0chr0n3/nginx-clickhouse-hs) - parse nginx logs based on log format and prepare them for loading into a database.
+* [nginx-clickhouse-hs](https://github.com/deemp/nginx-clickhouse-hs#readme) - parse nginx logs based on log format and prepare them for loading into a database.
 
 * [ФП на языке Haskell (часть 2)](https://stepik.org/cert/1492090) - a course on `Haskell` that I almost [finished](https://stepik.org/users/124553190).
 
@@ -29,26 +29,26 @@ Today, we are going to look at what some of my interests are.
 
 ## Elm
 
-* [elm-graph-editor](https://github.com/br4ch1st0chr0n3/elm-graph-editor) - an interactive graph editor written in `Elm`.
+* [elm-graph-editor](https://github.com/deemp/elm-graph-editor) - an interactive graph editor written in `Elm`.
 
 ## Nix
 
-* [terrafix](https://github.com/br4ch1st0chr0n3/terrafix) - a Nix eDSL. Allows to generate Terraform files from DRY Nix expressions
+* [terrafix](https://github.com/deemp/terrafix) - a Nix eDSL. Allows to generate `Terraform` files from DRY `Nix` expressions
 
-* [flakes](https://github.com/br4ch1st0chr0n3/flakes) includes
+* [flakes](https://github.com/deemp/flakes) includes
   * pinned inputs
   * flakes for tools that I use, like
-    * [flake-tools](https://github.com/br4ch1st0chr0n3/flakes/tree/main/flake-tools) - reusable scripts for updating `flake.lock`s in selected directories and pushing them to [cachix](https://www.cachix.org/)
-    * [codium](https://github.com/br4ch1st0chr0n3/flakes/tree/main/codium) - VSCodium with adjustable extensions and runtime dependencies
-    * [json2md](https://github.com/br4ch1st0chr0n3/flakes/tree/main/json2md) - generate `README.md`-s from JSON
+    * [flakes-tools](https://github.com/deemp/flakes/tree/main/flake-tools) - reusable scripts for updating `flake.lock`s in selected directories and pushing them to [cachix](https://www.cachix.org/)
+    * [codium](https://github.com/deemp/flakes/tree/main/codium) - VSCodium with adjustable extensions and runtime dependencies
+    * [json2md](https://github.com/deemp/flakes/tree/main/json2md) - generate `README.md`-s from `JSON`
 
-* [nix-managed](https://github.com/br4ch1st0chr0n3/nix-managed) - Haskell IDE as a flake
+* [nix-managed](https://github.com/deemp/nix-managed) - `Haskell` IDE as a `Nix flake`
 
-* [devops-labs](https://github.com/br4ch1st0chr0n3/devops-labs) - Nix for DevOps. See branches
+* [devops-labs](https://github.com/deemp/devops-labs) - `Nix` applications in `DevOps` tasks
 
 ## Logic programming 🤯
 
-* [Intro to AI Assignment](https://github.com/br4ch1st0chr0n3/AI) - Find an optimal path in a grid maze via `SWI-Prolog`.
+* [Intro to AI Assignment](https://github.com/deemp/AI) - Find an optimal path in a grid maze via `SWI-Prolog`.
 
 ## OOP and GUI 🥸
 
