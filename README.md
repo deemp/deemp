@@ -2,7 +2,7 @@
 
 This is a `Two Minute CV` with an Innopolis University BS'23 Danila Danko.
 
-Today, we are going to look at what some of my interests are.
+Today, we are going to look at what some of my projects are.
 
 ## Haskell 🤓
 
