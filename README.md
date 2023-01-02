@@ -17,6 +17,8 @@ Today, we are going to look at what some of my projects are.
       * [eo-parser](https://github.com/deemp/eo-utils) - a parser of [EO language](https://github.com/objectionary/eo). Provides a convenient annotated IR (with source mapping) closely resembling the grammar of 𝜑-calculus. Used in `try-phi`
     * Server - `Servant`
 
+* [clerk](https://github.com/deemp/clerk#readme) - declaratively generate spreadsheets
+
 * [manager](https://github.com/deemp/flakes/tree/main/manager#readme) - easily manage Haskell modules and template files. `Nix flake`
 
 * [repohs](https://github.com/deemp/repohs#readme) - a script for concurrent fetching, unpacking and counting lines in multiple repositories.
@@ -25,26 +27,31 @@ Today, we are going to look at what some of my projects are.
 
 * [ФП на языке Haskell (часть 2)](https://stepik.org/cert/1492090) - a course on `Haskell` that I almost [finished](https://stepik.org/users/124553190).
 
-* [br4ch1st0chr0n3](https://codeforces.com/submissions/brachistochrone) - several solved problems on Codeforces.
+* [br4ch1st0chr0n3](https://codeforces.com/submissions/brachistochrone) - several problems solved in `Haskell` on `Codeforces`
 
 ## Elm
 
 * [elm-graph-editor](https://github.com/deemp/elm-graph-editor) - an interactive graph editor written in `Elm`.
 
-## Nix
+## Nix flakes
 
-* [terrafix](https://github.com/deemp/terrafix) - a Nix eDSL. Allows to generate `Terraform` files from DRY `Nix` expressions
+* [codium-haskell](https://github.com/deemp/flakes/tree/main/templates/codium/haskell#readme) - `Nix` flake template showing 5 ways to run a `Haskell` program
 
-* [flakes](https://github.com/deemp/flakes) includes
-  * pinned inputs
-  * flakes for tools that I use, like
-    * [flakes-tools](https://github.com/deemp/flakes/tree/main/flake-tools) - reusable scripts for updating `flake.lock`s in selected directories and pushing them to [cachix](https://www.cachix.org/)
-    * [codium](https://github.com/deemp/flakes/tree/main/codium) - VSCodium with adjustable extensions and runtime dependencies
-    * [json2md](https://github.com/deemp/flakes/tree/main/json2md) - generate `README.md`-s from `JSON`
+* [terrafix](https://github.com/deemp/flakes/terrafix#readme) - Generate `Terraform` files from DRY `Nix` expressions (`eDSL`)
 
-* [nix-managed](https://github.com/deemp/nix-managed) - `Haskell` IDE as a `Nix flake`
+* [lima](https://github.com/deemp/flakes/tree/main/lima#readme) - convert between `Literate Haskell` (`.lhs`) and `Markdown` (`.md`)
+
+* [flakes-tools](https://github.com/deemp/flakes/tree/main/flake-tools) - scripts
+  * Update `flake.lock`s in selected directories
+  * Push them to [cachix](https://www.cachix.org/)
 
 * [devops-labs](https://github.com/deemp/devops-labs) - `Nix` applications in `DevOps` tasks
+
+* [codium](https://github.com/deemp/flakes/tree/main/codium) - VSCodium with adjustable extensions and runtime dependencies
+
+* [json2md](https://github.com/deemp/flakes/tree/main/json2md) - generate `README.md`-s from `JSON`
+
+* [nix-managed](https://github.com/deemp/nix-managed) - `Haskell` IDE as a `Nix flake`
 
 ## Logic programming 🤯
 
@@ -77,20 +84,20 @@ Today, we are going to look at what some of my projects are.
 
 * [Project 32](https://github.com/br4ch1st0chr0n3/Project-32) - A setup for an olympiad during `Differential Equations` F20 course. The rule was to use `Mathematica` for all solutions
 
-* [F21-TM](https://github.com/br4ch1st0chr0n3/F21TM) - A repository for the `Theoretical mechanics` course. `Python`
+* [F21-TM](https://github.com/br4ch1st0chr0n3/F21TM) - `Theoretical mechanics` course. `Python`
 
-* [F21-Meh](https://github.com/br4ch1st0chr0n3/F21Meh) - A repository for the `Mechatronics` course. `Python`
+* [F21-Meh](https://github.com/br4ch1st0chr0n3/F21Meh) - `Mechatronics` course. `Python`
 
-* [F21-FoR](https://github.com/br4ch1st0chr0n3/F21FoR) - A repository for the `Fundamentals of Robotics` course. `Python`
+* [F21-FoR](https://github.com/br4ch1st0chr0n3/F21FoR) - `Fundamentals of Robotics` course. `Python`
 
-* [F21-RoS](https://github.com/br4ch1st0chr0n3/robotic_systems_labs) - A repository for the `Fundamentals of Robotics` course. `Python`
+* [F21-RoS](https://github.com/br4ch1st0chr0n3/robotic_systems_labs) - `Fundamentals of Robotics` course. `Python`
 
-* [S22-MM](https://github.com/br4ch1st0chr0n3/M-and-Ms) - A repository for the `Fundamentals of Robotics` course. `Python`
+* [S22-MM](https://github.com/br4ch1st0chr0n3/M-and-Ms) - `Fundamentals of Robotics` course. `Python`
 
-* [S22-MM](https://github.com/br4ch1st0chr0n3/M-and-Ms) - A repository for the `Mechanics and Machines` course. `Python`
+* [S22-MM](https://github.com/br4ch1st0chr0n3/M-and-Ms) - `Mechanics and Machines` course. `Python`
 
-* [S22-ANC](https://github.com/br4ch1st0chr0n3/ANC) - A repository for the `Applied Nonlinear control` course. `Python`
+* [S22-ANC](https://github.com/br4ch1st0chr0n3/ANC) - `Applied Nonlinear control` course. `Python`
 
-* [S22-S&S](https://github.com/br4ch1st0chr0n3/S22-sensors-and-sensing) - A repository for the `Sensors and Sensing` course. `Python`
+* [S22-S&S](https://github.com/br4ch1st0chr0n3/S22-sensors-and-sensing) - `Sensors and Sensing` course. `Python`
 
 </details>
