@@ -25,6 +25,8 @@ Today, we are going to look at some of my projects.
 
 * [manager](https://github.com/deemp/flakes/tree/main/manager#readme) - easily manage Haskell modules and template files. `Nix flake`
 
+* [codium-haskell](https://github.com/deemp/flakes/tree/main/templates/codium/haskell#readme) - `Nix` flake template showing 5 ways to run a `Haskell` program + `VSCodium` with `Haskell` extensions
+
 * [repohs](https://github.com/deemp/repohs#readme) - a script for concurrent fetching, unpacking and counting lines in multiple repositories.
 
 * [nginx-clickhouse-hs](https://github.com/deemp/nginx-clickhouse-hs#readme) - parse nginx logs based on log format and prepare them for loading into a database.
@@ -38,8 +40,6 @@ Today, we are going to look at some of my projects.
 * [elm-graph-editor](https://github.com/deemp/elm-graph-editor) - an interactive graph editor written in `Elm`.
 
 ## Nix flakes
-
-* [codium-haskell](https://github.com/deemp/flakes/tree/main/templates/codium/haskell#readme) - `Nix` flake template showing 5 ways to run a `Haskell` program
 
 * [terrafix](https://github.com/deemp/flakes/terrafix#readme) - Generate `Terraform` files from DRY `Nix` expressions (`eDSL`)
 
