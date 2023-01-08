@@ -41,13 +41,15 @@ Today, we are going to look at some of my projects.
 
 ## Nix flakes
 
+* [nix-vscode-extensions](https://github.com/deemp/nix-vscode-extensions) - `GitHub Actions` that use `Nix` and `Python` to generate `Nix` expressions for ~40K VS Code extensions. It's `MapReduce`-like - produce separate expressions in multiple jobs and combine them into a single file.
+
 * [terrafix](https://github.com/deemp/flakes/terrafix#readme) - Generate `Terraform` files from DRY `Nix` expressions (`eDSL`)
+
+* [devops-labs](https://github.com/deemp/devops-labs#readme) - `DevOps` course tasks simplified via `Nix`
 
 * [flakes-tools](https://github.com/deemp/flakes/tree/main/flake-tools) - scripts
   * Update `flake.lock`s in selected directories
   * Push them to [cachix](https://www.cachix.org/)
-
-* [devops-labs](https://github.com/deemp/devops-labs#readme) - `DevOps` course tasks simplified via `Nix`
 
 * [codium](https://github.com/deemp/flakes/tree/main/codium#readme) - `VSCodium` with adjustable extensions and runtime dependencies
 
