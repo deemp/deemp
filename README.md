@@ -6,6 +6,8 @@ Today, we are going to look at some of my projects.
 
 ## Haskell 🤓
 
+* [script](https://github.com/nix-community/nix-vscode-extensions/blob/master/hs/app/Main.hs) - a crawler for [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions). Logging - `co-log-concurrent`, writing to a file - a separate thread that flushes a `TBMQueue`.
+
 * [simplex-cheat](https://github.com/deemp/projects/tree/main/simplex-cheat#readme) - an extremely simplified version of [simplex-chat](https://github.com/simplex-chat/simplex-chat#readme) with a server (`servant`) and clients talking to each other (`servant-client`) and configured via `Nix`. Concurrency - via `stm`, `stm-containers`.
 
 * [lima](https://github.com/deemp/flakes/tree/main/lima#readme) - convert `Haskell` (`.hs`) with `Markdown` comments to `Markdown` (`.md`) and between `Literate Haskell` (`.lhs`) and `Markdown` (`.md`)
