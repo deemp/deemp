@@ -10,7 +10,7 @@ Today, we are going to look at some of my projects.
 
 * [simplex-cheat](https://github.com/deemp/projects/tree/main/simplex-cheat#readme) - an extremely simplified version of [simplex-chat](https://github.com/simplex-chat/simplex-chat#readme) with a server (`servant`) and clients talking to each other (`servant-client`) and configured via `Nix`. Concurrency - via `stm`, `stm-containers`.
 
-* [lima](https://github.com/deemp/flakes/tree/main/lima#readme) - convert `Haskell` (`.hs`) with `Markdown` comments to `Markdown` (`.md`) and between `Literate Haskell` (`.lhs`) and `Markdown` (`.md`)
+* [lima](https://github.com/deemp/lima#readme) - convert `Haskell` (`.hs`) with `Markdown` comments to `Markdown` (`.md`) and between `Literate Haskell` (`.lhs`) and `Markdown` (`.md`)
 
 * [clerk](https://github.com/deemp/clerk#readme) - declaratively generate spreadsheets ([Hackage](https://hackage.haskell.org/package/clerk))
 
@@ -31,7 +31,7 @@ Today, we are going to look at some of my projects.
     * Dev tools
     * CI
 
-* [manager](https://github.com/deemp/flakes/tree/main/manager#readme) - easily manage Haskell modules and template files in a `stack` project.
+* [manager](https://github.com/deemp/projects/tree/main/manager#readme) - easily manage Haskell modules and template files in a `stack` project.
 
 * [nginx-clickhouse-hs](https://github.com/deemp/nginx-clickhouse-hs#readme) - parse nginx logs based on log format and prepare them for loading into a database.
 
@@ -43,21 +43,9 @@ Today, we are going to look at some of my projects.
 
 ## Nix flakes
 
-* [nix-vscode-extensions](https://github.com/deemp/nix-vscode-extensions) - `GitHub Actions` that use `Nix` and `Python` to generate `Nix` expressions for ~40K VS Code extensions. It's `MapReduce`-like - produce separate expressions in multiple jobs and combine them into a single file.
-
-* [terrafix](https://github.com/deemp/flakes/terrafix#readme) - Generate `Terraform` files from DRY `Nix` expressions (`eDSL`)
+* [flakes](https://github.com/deemp/flakes#readme) - flakes for tools that I use
 
 * [devops-labs](https://github.com/deemp/devops-labs#readme) - `DevOps` course tasks simplified via `Nix`
-
-* [flakes-tools](https://github.com/deemp/flakes/tree/main/flake-tools) - scripts
-  * Update `flake.lock`s in selected directories
-  * Push them to [cachix](https://www.cachix.org/)
-
-* [codium](https://github.com/deemp/flakes/tree/main/codium#readme) - `VSCodium` with adjustable extensions and runtime dependencies
-
-* [json2md](https://github.com/deemp/flakes/tree/main/json2md#readme) - Convert `Nix` or `JSON` to `Markdown`. Usage: generate docs for `Nix` infra via `Nix` expressions.
-
-* [flakes](https://github.com/deemp/flakes#readme) - flakes for tools that I use
 
 ## Front end 🤕
 
