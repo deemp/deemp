@@ -6,7 +6,9 @@ Today, we are going to look at some of my projects.
 
 ## Haskell 🤓
 
-* [script](https://github.com/nix-community/nix-vscode-extensions/blob/master/hs/app/Main.hs) - a crawler for [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions). Logging - `co-log-concurrent`, writing to a file - a separate thread that flushes a `TBMQueue`.
+* [nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) -  Nix expressions for VSCode and OpenVSX extensions.
+
+* [breaking-news-org/back-end](https://github.com/breaking-news-org/back-end) -  News site API.
 
 * [simplex-cheat](https://github.com/deemp/projects/tree/main/simplex-cheat#readme) - an extremely simplified version of [simplex-chat](https://github.com/simplex-chat/simplex-chat#readme) with a server (`servant`) and clients talking to each other (`servant-client`) and configured via `Nix`. Concurrency - via `stm`, `stm-containers`.
 
@@ -18,20 +20,7 @@ Today, we are going to look at some of my projects.
 
 * [try-phi](https://github.com/objectionary/try-phi#readme) - an online interpreter of 𝜑-calculus and [EO](https://github.com/objectionary/eo) language (WIP)
 
-  * [Front end](https://github.com/objectionary/try-phi/tree/main/front#readme)
-    * Site - `PureScript` + `Bootstrap 5`
-    * Editors - `Codemirror 6` + extensions written in `Typescript`
-  * [Back end](https://github.com/objectionary/try-phi/tree/main/back#readme)
-    * `Haskell`
-    * Parser - `Megaparsec`
-      * [EO parser](https://github.com/objectionary/try-phi/blob/main/back/language-utils/eo-utils/src/ParseEO.hs)  - a parser of EO. Provides a convenient annotated IR (with source mapping) closely resembling the grammar of 𝜑-calculus.
-    * Server - `Servant`
-    * Hosting - a `Docker` container on `Heroku`. The container is built via `Nix`
-  * [Nix flake](https://github.com/objectionary/try-phi/blob/main/flake.nix)
-    * Dev tools
-    * CI
-
-* [manager](https://github.com/deemp/projects/tree/main/manager#readme) - easily manage Haskell modules and template files in a `stack` project.
+* [manager](https://github.com/deemp/projects/tree/main/manager#readme) - easily manage `Haskell` modules and template files in a `stack` project.
 
 * [nginx-clickhouse-hs](https://github.com/deemp/nginx-clickhouse-hs#readme) - parse nginx logs based on log format and prepare them for loading into a database.
 
@@ -41,11 +30,13 @@ Today, we are going to look at some of my projects.
 
 * [br4ch1st0chr0n3](https://codeforces.com/submissions/brachistochrone) - several problems solved in `Haskell` on `Codeforces`
 
-## Nix flakes
+## Nix
 
-* [flakes](https://github.com/deemp/flakes#readme) - flakes for tools that I use
+* [flakes](https://github.com/deemp/flakes#readme) - `Nix` flakes for tools that I use
 
-* [devops-labs](https://github.com/deemp/devops-labs#readme) - `DevOps` course tasks simplified via `Nix`
+* [devops-labs](https://github.com/deemp/devops-labs#readme) - `DevOps` course tasks solved via `Nix`
+
+* [terrafix](https://github.com/deemp/terrafix) - Generate Terraform files from DRY `Nix` expressions.
 
 ## Front end 🤕
 
