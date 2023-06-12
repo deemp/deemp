@@ -6,7 +6,9 @@ Today, we are going to look at some of my projects.
 
 ## Haskell 🤓
 
-* [nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) -  Nix expressions for VSCode and OpenVSX extensions.
+* [nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VSCode and OpenVSX extensions.
+
+* [servant-queryparam](https://hackage.haskell.org/package/servant-queryparam-core) - Use records for query parameters in servant APIs.
 
 * [breaking-news-org/back-end](https://github.com/breaking-news-org/back-end) -  News site API.
 
