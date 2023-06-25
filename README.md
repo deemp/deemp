@@ -10,7 +10,7 @@ Today, we are going to look at some of my projects.
 
 * [servant-queryparam](https://hackage.haskell.org/package/servant-queryparam-core) - Use records for query parameters in `servant` APIs.
 
-* [breaking-news-org/back-end](https://github.com/breaking-news-org/back-end) -  News site API.
+* [breaking-news-org/back-end](https://github.com/breaking-news-org/back-end) -  News site API built using `servant`, `effectful`, `esqueleto`.
 
 * [simplex-cheat](https://github.com/deemp/projects/tree/main/simplex-cheat#readme) - an extremely simplified version of [simplex-chat](https://github.com/simplex-chat/simplex-chat#readme) with a server (`servant`) and clients talking to each other (`servant-client`) and configured via `Nix`. Concurrency - via `stm`, `stm-containers`.
 
