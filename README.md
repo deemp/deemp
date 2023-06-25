@@ -22,8 +22,6 @@ Today, we are going to look at some of my projects.
 
 * [try-phi](https://github.com/objectionary/try-phi#readme) - back end of an online interpreter of 𝜑-calculus and [EO](https://github.com/objectionary/eo) language.
 
-* [manager](https://github.com/deemp/projects/tree/main/manager#readme) - easily manage `Haskell` modules and template files in a `stack` project.
-
 * [nginx-clickhouse-hs](https://github.com/deemp/nginx-clickhouse-hs#readme) - parse nginx logs based on log format and prepare them for loading into a database.
 
 * [repohs](https://github.com/deemp/repohs#readme) - a script for concurrent fetching, unpacking and counting lines in multiple repositories.
