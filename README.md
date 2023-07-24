@@ -4,6 +4,10 @@ This is a `Two Minute CV` with an Innopolis University BS'23 Danila Danko.
 
 Today, we are going to look at some of my projects.
 
+## Projects
+
+* [projects](https://github.com/deemp/projects) - a monorepo with some of my projects.
+
 ## Haskell 🤓
 
 * [nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - script that generates Nix expressions for VSCode and OpenVSX extensions.
@@ -12,7 +16,7 @@ Today, we are going to look at some of my projects.
 
 * [breaking-news-org/back-end](https://github.com/breaking-news-org/back-end) -  News site API built using `servant`, `effectful`, `esqueleto`.
 
-* [simplex-cheat](https://github.com/deemp/projects/tree/main/simplex-cheat#readme) - an extremely simplified version of [simplex-chat](https://github.com/simplex-chat/simplex-chat#readme) with a server (`servant`) and clients talking to each other (`servant-client`) and configured via `Nix`. Concurrency - via `stm`, `stm-containers`.
+* [simplex-cheat](https://github.com/deemp/projects/tree/main/haskell/simplex-cheat#readme) - an extremely simplified version of [simplex-chat](https://github.com/simplex-chat/simplex-chat#readme) with a server (`servant`) and clients talking to each other (`servant-client`) and configured via `Nix`. Concurrency - via `stm`, `stm-containers`.
 
 * [lima](https://github.com/deemp/lima#readme) - convert `Haskell` (`.hs`) with `Markdown` comments to `Markdown` (`.md`) and between `Literate Haskell` (`.lhs`) and `Markdown` (`.md`)
 
@@ -22,9 +26,9 @@ Today, we are going to look at some of my projects.
 
 * [try-phi](https://github.com/objectionary/try-phi#readme) - back end of an online interpreter of 𝜑-calculus and [EO](https://github.com/objectionary/eo) language.
 
-* [nginx-clickhouse-hs](https://github.com/deemp/nginx-clickhouse-hs#readme) - parse nginx logs based on log format and prepare them for loading into a database.
+* [nginx-clickhouse-hs](https://github.com/deemp/projects/tree/main/haskell/nginx-clickhouse-hs#readme) - parse nginx logs based on log format and prepare them for loading into a database.
 
-* [repohs](https://github.com/deemp/repohs#readme) - a script for concurrent fetching, unpacking and counting lines in multiple repositories.
+* [repohs](https://github.com/deemp/projects/tree/main/haskell/repohs#readme) - a script for concurrent fetching, unpacking and counting lines in multiple repositories.
 
 * [ФП на языке Haskell (часть 2)](https://stepik.org/cert/1492090) - a course on `Haskell` that I almost [finished](https://stepik.org/users/124553190).
 
@@ -34,7 +38,7 @@ Today, we are going to look at some of my projects.
 
 * [flakes](https://github.com/deemp/flakes#readme) - `Nix` flakes for tools that I use
 
-* [devops-labs](https://github.com/deemp/devops-labs#readme) - `DevOps` course tasks solved via `Nix`
+* [devops-labs](https://github.com/deemp/devops-labs-with-nix#readme) - `DevOps` course tasks solved via `Nix`
 
 * [terrafix](https://github.com/deemp/terrafix) - Generate Terraform files from DRY `Nix` expressions.
 
@@ -74,25 +78,4 @@ Today, we are going to look at some of my projects.
 
 ## University courses
 
-<details>
- <summary>Mostly Robotics</summary>
-
-* [Project 32](https://github.com/deemp/Project-32) - A setup for an olympiad during `Differential Equations` F20 course. The rule was to use `Mathematica` for all solutions
-
-* [F21-TM](https://github.com/deemp/F21TM) - `Theoretical mechanics` course. `Python`
-
-* [F21-Meh](https://github.com/deemp/F21Meh) - `Mechatronics` course. `Python`
-
-* [F21-FoR](https://github.com/deemp/F21FoR) - `Fundamentals of Robotics` course. `Python`
-
-* [F21-RoS](https://github.com/deemp/robotic_systems_labs) - `Fundamentals of Robotics` course. `Python`
-
-* [S22-MM](https://github.com/deemp/M-and-Ms) - `Fundamentals of Robotics` course. `Python`
-
-* [S22-MM](https://github.com/deemp/M-and-Ms) - `Mechanics and Machines` course. `Python`
-
-* [S22-ANC](https://github.com/deemp/ANC) - `Applied Nonlinear control` course. `Python`
-
-* [S22-S&S](https://github.com/deemp/S22-sensors-and-sensing) - `Sensors and Sensing` course. `Python`
-
-</details>
+[Innopolis](https://github.com/deemp/Innopolis)
