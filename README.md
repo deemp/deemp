@@ -8,6 +8,8 @@ Today, we are going to look at some of my projects.
 
 * [projects](https://github.com/deemp/projects) - a monorepo with some of my projects.
 
+* [elibrary](https://gitlab.pg.innopolis.university/elibrary/elibrary) - electronic library of the Innopolis University (WIP)
+
 ## Haskell 🤓
 
 * [nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - script that generates Nix expressions for VSCode and OpenVSX extensions.
