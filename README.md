@@ -6,7 +6,7 @@ Today, we are going to look at some of my projects.
 
 ## Projects
 
-* [projects](https://github.com/deemp/projects) - a monorepo with some of my projects.
+* [projects](https://github.com/deemp/projects) - a monorepo with several projects.
 
 * [elibrary](https://github.com/deemp/elibrary) - electronic library of the Innopolis University (WIP)
 
