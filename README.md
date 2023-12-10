@@ -1,6 +1,6 @@
 ### Dear fellow devs
 
-This is a `Two Minute CV` with an Innopolis University BS'23 Danila Danko.
+This is a `Two Minute CV` with an Innopolis University MS'25 Danila Danko.
 
 Today, we are going to look at some of my projects.
 
