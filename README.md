@@ -6,7 +6,7 @@ Today, we are going to look at some of my projects.
 
 ## Fullstack
 
-* [elibrary](https://github.com/deemp/elibrary) - electronic library of the Innopolis University (WIP)
+* [elibrary](https://github.com/deemp/elibrary) - electronic library of the Innopolis University.
 
 ## Haskell 🤓
 
@@ -32,9 +32,9 @@ Today, we are going to look at some of my projects.
 
 * [ФП на языке Haskell (часть 2)](https://stepik.org/cert/1492090) - a course on `Haskell` that I almost [finished](https://stepik.org/users/124553190).
 
-* [br4ch1st0chr0n3](https://codeforces.com/submissions/brachistochrone) - several problems solved in `Haskell` on `Codeforces`
-
 ## Nix
+
+* [cache-nix-action](https://github.com/nix-community/cache-nix-action#readme) - Cache and restore Nix Store in GitHub Actions to speed up workflows.
 
 * [flakes](https://github.com/deemp/flakes#readme) - `Nix` flakes for tools that I use
 
