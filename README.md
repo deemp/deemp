@@ -4,9 +4,7 @@ This is a `Two Minute CV` with an Innopolis University MS'25 Danila Danko.
 
 Today, we are going to look at some of my projects.
 
-## Projects
-
-* [projects](https://github.com/deemp/projects) - a monorepo with several projects.
+## Fullstack
 
 * [elibrary](https://github.com/deemp/elibrary) - electronic library of the Innopolis University (WIP)
 
@@ -64,7 +62,11 @@ Today, we are going to look at some of my projects.
 
 ## Logic programming 🤯
 
-* [Intro to AI Assignment](https://github.com/deemp/AI) - Find an optimal path in a grid maze via `SWI-Prolog`.
+* [Intro to AI Assignment]([https://github.com/deemp/AI](https://github.com/deemp/projects/tree/bf4d075601b3edd55a5145a49a2e6ac238025257/prolog/maze)) - Find an optimal path in a grid maze via `SWI-Prolog`.
+
+## Miscellaneous projects
+
+* [projects](https://github.com/deemp/projects) - a monorepo with several projects.
 
 ## OOP and GUI 🥸
 
