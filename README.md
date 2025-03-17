@@ -4,13 +4,15 @@ This is a `Two Minute CV` with an Innopolis University MS'25 Danila Danko.
 
 Today, we are going to look at some of my projects.
 
-## Fullstack
+## Fullstack 🥞
 
 * [elibrary](https://github.com/deemp/elibrary) - electronic library of the Innopolis University.
 
 ## Haskell 🤓
 
 * [nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - script that generates Nix expressions for VSCode and OpenVSX extensions.
+
+* [eo-phi-normalizer](https://github.com/objectionary/eo-phi-normalizer) - Command Line Normalizer and Rewriter of 𝜑-calculus Expressions (part of EOLANG family).
 
 * [servant-queryparam](https://hackage.haskell.org/package/servant-queryparam-core) - Use records for query parameters in `servant` APIs.
 
@@ -32,7 +34,7 @@ Today, we are going to look at some of my projects.
 
 * [ФП на языке Haskell (часть 2)](https://stepik.org/cert/1492090) - a course on `Haskell` that I almost [finished](https://stepik.org/users/124553190).
 
-## Nix
+## Nix ❄️
 
 * [cache-nix-action](https://github.com/nix-community/cache-nix-action#readme) - Cache and restore Nix Store in GitHub Actions to speed up workflows.
 
@@ -42,7 +44,7 @@ Today, we are going to look at some of my projects.
 
 * [terrafix](https://github.com/deemp/terrafix) - Generate Terraform files from DRY `Nix` expressions.
 
-## PureScript
+## PureScript 🍝
 
 * [try-phi](https://github.com/objectionary/try-phi#readme) - front end of an online interpreter of 𝜑-calculus and [EO](https://github.com/objectionary/eo) language.
 
@@ -56,7 +58,7 @@ Today, we are going to look at some of my projects.
 
 * [phi-editor](https://github.com/deemp/phi-editor) - An online editor for the Minimal [𝜑-calculus](https://arxiv.org/abs/2204.07454) language.
 
-## Elm
+## Elm 💀
 
 * [elm-graph-editor](https://github.com/deemp/elm-graph-editor) - an interactive graph editor written in `Elm`.
 
@@ -64,11 +66,11 @@ Today, we are going to look at some of my projects.
 
 * [Intro to AI Assignment]([https://github.com/deemp/AI](https://github.com/deemp/projects/tree/bf4d075601b3edd55a5145a49a2e6ac238025257/prolog/maze)) - Find an optimal path in a grid maze via `SWI-Prolog`.
 
-## Miscellaneous projects
+## Miscellaneous projects 📂
 
 * [projects](https://github.com/deemp/projects) - a monorepo with several projects.
 
-## OOP and GUI 🥸
+## OOP and GUI 👀
 
 * [Ava-Day](https://github.com/RO-DIS/Ava-day) - Generate a pseudo-3D avatar.
 
@@ -80,6 +82,6 @@ Today, we are going to look at some of my projects.
 
 * [vforces](https://github.com/deemp/vforces) - Shows the solutions to some Codeforces problems in `V`. Also, includes the setup instructions for a simple project in [V language](https://github.com/vlang/v)
 
-## University courses
+## University courses 👨‍🎓
 
 [Innopolis](https://github.com/deemp/Innopolis)
