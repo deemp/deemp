@@ -20,11 +20,11 @@ Today, we are going to look at some of my projects.
 
 * [simplex-cheat](https://github.com/deemp/projects/tree/main/haskell/simplex-cheat#readme) - an extremely simplified version of [simplex-chat](https://github.com/simplex-chat/simplex-chat#readme) with a server (`servant`) and clients talking to each other (`servant-client`) and configured via `Nix`. Concurrency - via `stm`, `stm-containers`.
 
-* [lima](https://github.com/deemp/lima#readme) - convert `Haskell` (`.hs`) with `Markdown` comments to `Markdown` (`.md`) and between `Literate Haskell` (`.lhs`) and `Markdown` (`.md`)
+* [lima](https://github.com/deemp/lima#readme) - convert `Haskell` (`.hs`) with `Markdown` comments to `Markdown` (`.md`) and between `Literate Haskell` (`.lhs`) and `Markdown` (`.md`).
 
-* [clerk](https://github.com/deemp/clerk#readme) - declaratively generate spreadsheets ([Hackage](https://hackage.haskell.org/package/clerk))
+* [clerk](https://github.com/deemp/clerk#readme) - declaratively generate spreadsheets ([Hackage](https://hackage.haskell.org/package/clerk)).
 
-* [codium-haskell](https://github.com/deemp/flakes/tree/main/templates/codium/haskell#readme) - `Nix` flake template showing 5 ways to run a `Haskell` program + `VSCodium` with `Haskell` extensions
+* [codium-haskell](https://github.com/deemp/flakes/tree/main/templates/codium/haskell#readme) - `Nix` flake template showing 5 ways to run a `Haskell` program + `VSCodium` with `Haskell` extensions.
 
 * [try-phi](https://github.com/objectionary/try-phi#readme) - back end of an online interpreter of 𝜑-calculus and [EO](https://github.com/objectionary/eo) language.
 
@@ -38,9 +38,9 @@ Today, we are going to look at some of my projects.
 
 * [cache-nix-action](https://github.com/nix-community/cache-nix-action#readme) - Cache and restore Nix Store in GitHub Actions to speed up workflows.
 
-* [flakes](https://github.com/deemp/flakes#readme) - `Nix` flakes for tools that I use
+* [flakes](https://github.com/deemp/flakes#readme) - `Nix` flakes for tools that I use.
 
-* [devops-labs](https://github.com/deemp/devops-labs-with-nix#readme) - `DevOps` course tasks solved via `Nix`
+* [devops-labs](https://github.com/deemp/devops-labs-with-nix#readme) - `DevOps` course tasks solved via `Nix`.
 
 * [terrafix](https://github.com/deemp/terrafix) - Generate Terraform files from DRY `Nix` expressions.
 
@@ -50,11 +50,11 @@ Today, we are going to look at some of my projects.
 
 ## Front end 🤕
 
-* [final project](https://github.com/deemp/projects/tree/main/blockchain/final-project#readme) for the Blockchain elective course (unfinished)
+* [final project](https://github.com/deemp/projects/tree/main/blockchain/final-project#readme) for the Blockchain elective course (unfinished).
 
 * [mini-games](https://github.com/deemp/mini-games) - a calculator game written in `Typescript` + `Boostrap 5` for my sisters to practice arithmetical operations.
 
-* [eo-editor](https://github.com/deemp/eo-editor) - An online editor for the [EO](https://github.com/objectionary/eo) language
+* [eo-editor](https://github.com/deemp/eo-editor) - An online editor for the [EO](https://github.com/objectionary/eo) language.
 
 * [phi-editor](https://github.com/deemp/phi-editor) - An online editor for the Minimal [𝜑-calculus](https://arxiv.org/abs/2204.07454) language.
 
@@ -84,4 +84,4 @@ Today, we are going to look at some of my projects.
 
 ## University courses 👨‍🎓
 
-[Innopolis](https://github.com/deemp/Innopolis)
+- [Innopolis](https://github.com/deemp/Innopolis)
