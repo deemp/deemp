@@ -4,9 +4,15 @@ This is a `Two Minute CV` with an Innopolis University MS'25 Danila Danko.
 
 Today, we are going to look at some of my projects.
 
-## Fullstack 🥞
+## Nix ❄️
 
-* [elibrary](https://github.com/deemp/elibrary) - electronic library of the Innopolis University.
+* [cache-nix-action](https://github.com/nix-community/cache-nix-action#readme) - Cache and restore Nix Store in GitHub Actions to speed up workflows.
+
+* [flakes](https://github.com/deemp/flakes#readme) - `Nix` flakes for tools that I use.
+
+* [devops-labs](https://github.com/deemp/devops-labs-with-nix#readme) - `DevOps` course tasks solved via `Nix`.
+
+* [terrafix](https://github.com/deemp/terrafix) - Generate Terraform files from DRY `Nix` expressions.
 
 ## Haskell 🤓
 
@@ -34,21 +40,15 @@ Today, we are going to look at some of my projects.
 
 * [ФП на языке Haskell (часть 2)](https://stepik.org/cert/1492090) - a course on `Haskell` that I almost [finished](https://stepik.org/users/124553190).
 
-## Nix ❄️
+## Python 🥞
 
-* [cache-nix-action](https://github.com/nix-community/cache-nix-action#readme) - Cache and restore Nix Store in GitHub Actions to speed up workflows.
+* [elibrary](https://github.com/deemp/elibrary) - electronic library of the Innopolis University.
 
-* [flakes](https://github.com/deemp/flakes#readme) - `Nix` flakes for tools that I use.
-
-* [devops-labs](https://github.com/deemp/devops-labs-with-nix#readme) - `DevOps` course tasks solved via `Nix`.
-
-* [terrafix](https://github.com/deemp/terrafix) - Generate Terraform files from DRY `Nix` expressions.
-
-## PureScript 🍝
-
-* [try-phi](https://github.com/objectionary/try-phi#readme) - front end of an online interpreter of 𝜑-calculus and [EO](https://github.com/objectionary/eo) language.
+* [anki-decks/custom](https://github.com/deemp/anki-decks/blob/da7c05e0f881df16c347c412b688fe3566dc39fd/custom/de/script/main.py) - a script for generating a custom Anki deck from song texts via `spacy`, `pandas`, and ChatGPT API.
 
 ## Front end 🤕
+
+* [elibrary](https://github.com/deemp/elibrary) - electronic library of the Innopolis University.
 
 * [final project](https://github.com/deemp/projects/tree/main/blockchain/final-project#readme) for the Blockchain elective course (unfinished).
 
@@ -57,6 +57,12 @@ Today, we are going to look at some of my projects.
 * [eo-editor](https://github.com/deemp/eo-editor) - An online editor for the [EO](https://github.com/objectionary/eo) language.
 
 * [phi-editor](https://github.com/deemp/phi-editor) - An online editor for the Minimal [𝜑-calculus](https://arxiv.org/abs/2204.07454) language.
+
+## PureScript 🍝
+
+* [arigame](https://github.com/deemp/arigame) - An arithmetics game written in PureScript using Halogen, SASS, and Bootstrap 5.
+
+* [try-phi](https://github.com/objectionary/try-phi#readme) - front end of an online interpreter of 𝜑-calculus and [EO](https://github.com/objectionary/eo) language.
 
 ## Elm 💀
 
