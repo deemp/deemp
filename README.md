@@ -8,6 +8,8 @@ Today, we are going to look at some of my projects.
 
 * [cache-nix-action](https://github.com/nix-community/cache-nix-action#readme) - Cache and restore Nix Store in GitHub Actions to speed up workflows.
 
+* [nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VSCode and OpenVSX extensions.
+
 * [flakes](https://github.com/deemp/flakes#readme) - `Nix` flakes for tools that I use.
 
 * [devops-labs](https://github.com/deemp/devops-labs-with-nix#readme) - `DevOps` course tasks solved via `Nix`.
@@ -16,9 +18,11 @@ Today, we are going to look at some of my projects.
 
 ## Haskell 🤓
 
-* [nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - script that generates Nix expressions for VSCode and OpenVSX extensions.
+* [arbitrary-rank-tutorial](https://github.com/deemp/arbitrary-rank-tutorial) - A Tutorial Implementation of a Lambda Calculus with Parametric Predicative Arbitrary-Rank Polymorphism.
 
 * [eo-phi-normalizer](https://github.com/objectionary/eo-phi-normalizer) - Command Line Normalizer and Rewriter of 𝜑-calculus Expressions (part of EOLANG family).
+
+* [nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - script that generates Nix expressions for VSCode and OpenVSX extensions.
 
 * [servant-queryparam](https://hackage.haskell.org/package/servant-queryparam-core) - Use records for query parameters in `servant` APIs.
 
