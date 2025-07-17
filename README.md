@@ -1,8 +1,8 @@
-### Dear fellow devs
+# Two Minute CV
 
-This is a `Two Minute CV` with an Innopolis University MS'25 Danila Danko.
+Dear fellow devs, this is the `Two Minute CV` with Danila Danko.
 
-Today, we are going to look at some of my projects.
+MS'25 grad, Innopolis University. Let's dive in.
 
 ## Nix ❄️
 
@@ -72,7 +72,7 @@ Today, we are going to look at some of my projects.
 
 ## Logic programming 🤯
 
-* [Intro to AI Assignment]([https://github.com/deemp/AI](https://github.com/deemp/projects/tree/bf4d075601b3edd55a5145a49a2e6ac238025257/prolog/maze)) - Find an optimal path in a grid maze via `SWI-Prolog`.
+* [Intro to AI Assignment](https://github.com/deemp/projects/tree/bf4d075601b3edd55a5145a49a2e6ac238025257/prolog/maze) - Find an optimal path in a grid maze via `SWI-Prolog`.
 
 ## OOP and GUI 👀
 
